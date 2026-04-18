@@ -17,3 +17,6 @@ If you are developing a production application, we recommend using TypeScript wi
 
 ## Backend Setup
 Se configuró la estructura inicial del backend utilizando FastAPI y SQLAlchemy.
+
+## Frontend UI
+Se configuró la estructura inicial del frontend con React y Vite.
